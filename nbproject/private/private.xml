@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/demoLaravel/resources/views/User/index.blade.php</file>
+            <file>file:/C:/wamp64/www/demoLaravel/resources/views/Person/index.blade.php</file>
+            <file>file:/C:/wamp64/www/demoLaravel/app/Http/Controllers/User/UserController.php</file>
+            <file>file:/C:/wamp64/www/demoLaravel/app/Models/User.php</file>
+            <file>file:/C:/wamp64/www/demoLaravel/resources/views/layouts/main.blade.php</file>
+            <file>file:/C:/wamp64/www/demoLaravel/app/Http/Controllers/Company/CompanyController.php</file>
+            <file>file:/C:/wamp64/www/demoLaravel/app/Http/routes.php</file>
+        </group>
+    </open-files>
+</project-private>
